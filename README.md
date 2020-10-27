@@ -6,8 +6,8 @@
 - As the IR sensor fixed near the Motor detects a car entry,the Servo motor opens up the barricade.
 - The app displays the no.of empty slots before the car enters (via the bluetooth sensor).
 - Once the car is parked in a slot, the slot is marked as filled .
-- Through a series of if-else statements , the process of finding empty and filled slots are repeated for each car entry.
-- Once all slots are filled , the barricade doesnt open up . (indicating that there are no empty slots).
+- Through a series of if-else statements , the process of finding empty and filled slots is repeated for each car entry.
+- Once all slots are filled , the barricade does not open up . (indicating that there are no empty slots).
 
 #### Components used:
 - Arduino Uno
